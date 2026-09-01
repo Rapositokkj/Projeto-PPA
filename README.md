@@ -33,6 +33,7 @@ O projeto ainda está sendo desenvolvido e poderá receber novas seções, conte
 
 ## 👥 Equipe
 
+Arthur Souza Magalhães 
 Davi Roberto da Rocha Rauédys Sampaio 
 Filipe de Souza Lourenço
 #Rafael dos Santos Costa 

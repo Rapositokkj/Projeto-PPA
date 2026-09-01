@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Hub Inclusivo</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+
+        <!-- LADO ESQUERDO -->
+        <div class="header-left">
+
+            <button class="menu-btn">
+                ☰
+            </button>
+
+            <div class="logo">
+
+                <div class="logo-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+                <strong>Hub Inclusivo</strong>
+
+            </div>
+
+        </div>
+
+
+        <!-- MENU -->
+        <nav class="nav">
+
+            <a href="#" class="active">
+                Início
+            </a>
+
+            <a href="#">
+                A Ciência por Trás
+            </a>
+
+            <a href="#">
+                Linha do Tempo
+            </a>
+
+        </nav>
+
+
+        <!-- BOTÃO -->
+        <button class="resource-btn">
+            Banco de Recursos
+        </button>
+
+    </header>
+
+
+    <!-- CONTEÚDO PRINCIPAL -->
+    <main>
+
+        <!-- HERO -->
+        <section class="hero">
+
+            <div class="hero-text">
+
+                <span class="badge">
+                    EDUCAÇÃO • JOGO • INCLUSÃO
+                </span>
+
+                <h1>
+                    Todo estudante <br>
+                    merece <span>aprender</span> <br>
+                    através do jogo.
+                </h1>
+
+                <p>
+                    O Hub de Educação Inclusiva reúne os melhores recursos de
+                    gamificação para transformar qualquer sala de aula em um
+                    espaço acessível, dinâmico e justo para todos.
+                </p>
+
+                <div class="hero-buttons">
+
+                    <button class="primary-btn">
+                        Explorar a Plataforma →
+                    </button>
+
+                    <button class="secondary-btn">
+                        A Ciência por Trás
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <div class="hero-image">
+
+                <div class="dots"></div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ESTATÍSTICAS -->
+        <section class="stats">
+
+            <div class="stat">
+
+                <strong>200+</strong>
+
+                <span>
+                    Recursos catalogados
+                </span>
+
+            </div>
+
+
+            <div class="stat">
+
+                <strong>47</strong>
+
+                <span>
+                    Tipos de necessidades
+                </span>
+
+            </div>
+
+
+            <div class="stat">
+
+                <strong>12K+</strong>
+
+                <span>
+                    Educadores ativos
+                </span>
+
+            </div>
+
+
+            <div class="stat">
+
+                <strong>98%</strong>
+
+                <span>
+                    Satisfação docente
+                </span>
+
+            </div>
+
+        </section>
+
+
+        <!-- POR QUE GAMIFICAÇÃO -->
+        <section class="gamificacao">
+
+            <div class="section-title">
+
+                <span>
+                    POR QUE GAMIFICAÇÃO?
+                </span>
+
+                <h2>
+                    Jogos que transformam <br>
+                    a experiência de aprender
+                </h2>
+
+            </div>
+
+
+            <div class="cards">
+
+                <!-- CARD 1 -->
+                <div class="card card-blue">
+
+                    <div class="card-icon">
+                        🎯
+                    </div>
+
+                    <h3>
+                        Engajamento Real
+                    </h3>
+
+                    <p>
+                        Mecânicas de jogo aumentam a atenção e
+                        motivação em até 3× comparado ao ensino
+                        tradicional.
+                    </p>
+
+                </div>
+
+
+                <!-- CARD 2 -->
+                <div class="card card-green">
+
+                    <div class="card-icon">
+                        ♿
+                    </div>
+
+                    <h3>
+                        Barreiras Quebradas
+                    </h3>
+
+                    <p>
+                        Interfaces adaptativas permitem que estudantes
+                        com deficiências motoras, visuais ou cognitivas
+                        participem plenamente.
+                    </p>
+
+                </div>
+
+
+                <!-- CARD 3 -->
+                <div class="card card-pink">
+
+                    <div class="card-icon">
+                        📊
+                    </div>
+
+                    <h3>
+                        Progresso Visível
+                    </h3>
+
+                    <p>
+                        Feedback imediato e recompensas aumentam a
+                        autoestima e permitem ao educador monitorar
+                        a evolução individual.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+</body>
+
+</html>
